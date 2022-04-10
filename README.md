@@ -22,6 +22,4 @@ pip install cv2
 ```python
 print('hello')
 ```
-```c++
-cout<< "hello"
-```
+
